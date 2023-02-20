@@ -1,0 +1,26 @@
+.topqueue {
+  margin-top: 30%
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+}
+
+.form__label {
+  display: block;
+}
+
+.form__character-count {
+  font-size: inherit;
+  color: #666;
+}
+
